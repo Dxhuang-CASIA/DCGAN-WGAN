@@ -2,8 +2,9 @@
 使用DCGAN结构结合WGAN损失函数在CelebA数据集上训练生成人脸
 
 - 训练数据 CelebA数据集 http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-
-  解压到./img_align_celeba文件夹下
+  - 解压到./img_align_celeba文件夹下
+  - ./m_img: 存放中间图片
+  - ./ckpt: 存放中间权重
 
 - 原始GAN训练
 

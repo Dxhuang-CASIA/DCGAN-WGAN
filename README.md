@@ -7,31 +7,31 @@
 
 - 原始GAN训练
 
-  <img src="/Users/dexinghuang/Library/Application Support/typora-user-images/image-20220310232353654.png" alt="image-20220310232353654" style="zoom:67%;" />
+  <img src="/Users/dexinghuang/Desktop/github项目/DCGAN-WGAN/image/01.png" alt="image-20220310232353654" style="zoom:67%;" />
 
 - WGAN训练
 
-  <img src="/Users/dexinghuang/Library/Application Support/typora-user-images/image-20220310232623419.png" alt="image-20220310232623419" style="zoom:67%;" />
+  <img src="/Users/dexinghuang/Desktop/github项目/DCGAN-WGAN/image/02.png" alt="image-20220310232623419" style="zoom:67%;" />
 
 
 
 - 原始GAN训练100个epoch
 
-  <img src="/Users/dexinghuang/Library/Application Support/typora-user-images/image-20220310232736025.png" alt="image-20220310232736025" style="zoom:50%;" />
+  <img src="/Users/dexinghuang/Desktop/github项目/DCGAN-WGAN/image/03.png" alt="image-20220310232736025" style="zoom:50%;" />
 
 ​	
 
 - WGAN训练300个epoch
 
-  <img src="/Users/dexinghuang/Library/Application Support/typora-user-images/image-20220310232838902.png" alt="image-20220310232838902" style="zoom: 50%;" />
+  <img src="/Users/dexinghuang/Desktop/github项目/DCGAN-WGAN/image/04.png" alt="image-20220310232838902" style="zoom: 50%;" />
 
-<img src="/Users/dexinghuang/Library/Application Support/typora-user-images/image-20220310232909151.png" alt="image-20220310232909151" style="zoom:50%;" />
+<img src="/Users/dexinghuang/Desktop/github项目/DCGAN-WGAN/image/05.png" alt="image-20220310232909151" style="zoom:50%;" />
 
 > 分别是第0，100，200，299个epoch时生成器G输出的结果
 
-<img src="/Users/dexinghuang/Library/Application Support/typora-user-images/image-20220310233135581.png" alt="image-20220310233135581" style="zoom: 50%;" /> <img src="/Users/dexinghuang/Library/Application Support/typora-user-images/image-20220310233414127.png" alt="image-20220310233414127" style="zoom: 50%;" />
+<img src="/Users/dexinghuang/Desktop/github项目/DCGAN-WGAN/image/06.png" alt="image-20220310233135581" style="zoom: 50%;" /> <img src="/Users/dexinghuang/Desktop/github项目/DCGAN-WGAN/image/07.png" alt="image-20220310233414127" style="zoom: 50%;" />
 
-<img src="/Users/dexinghuang/Library/Application Support/typora-user-images/image-20220310233458534.png" alt="image-20220310233458534" style="zoom: 50%;" /><img src="/Users/dexinghuang/Library/Application Support/typora-user-images/image-20220310233552834.png" alt="image-20220310233552834" style="zoom: 50%;" />
+<img src="/Users/dexinghuang/Desktop/github项目/DCGAN-WGAN/image/08.png" alt="image-20220310233458534" style="zoom: 50%;" /><img src="/Users/dexinghuang/Desktop/github项目/DCGAN-WGAN/image/09.png" alt="image-20220310233552834" style="zoom: 50%;" />
 
 
 
